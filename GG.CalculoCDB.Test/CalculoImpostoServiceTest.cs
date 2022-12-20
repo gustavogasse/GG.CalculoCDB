@@ -2,12 +2,6 @@
 using GG.CalculoCDB.Domain.Repositories;
 using GG.CalculoCDB.Domain.Services;
 using GG.CalculoCDB.UI.Web.Services;
-using GG.CalculoCDB.UI.Web.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GG.CalculoCDB.Test
 {
